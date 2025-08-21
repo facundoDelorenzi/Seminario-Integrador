@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SeminarioIntegradorWeb(TinderDogs).props" />
+</Project>
